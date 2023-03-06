@@ -1,2 +1,0 @@
-could only solve 1st problem
--> read about prefix sum, sliding window, adjecency list, graph traversal
